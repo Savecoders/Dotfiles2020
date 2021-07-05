@@ -1,0 +1,27 @@
+colors:
+  #pimary colors
+  primary:
+    background: '#0f101a'
+    foreground: '#e5e9f0'
+
+  #the color primary
+  normal:
+    black: '#181a29'
+    red: '#f57778'
+    green: '#cdea9f'
+    yellow: '#ffd47e'
+     blue: '#93bbff'
+    magenta: '#ec407a'
+    cyan: '#1da9fe'
+    white: '#f4f6f7'
+
+  # Bright colors
+  bright:
+    black: '#101010'
+    red: '#eb7f84'
+    green: '#ddffa7'
+    yellow: '#ffe489'
+    blue: '#93bbff'
+    magenta: '#ae81ff'
+    cyan: '#98e4ff'
+    white: '#c5c9de'

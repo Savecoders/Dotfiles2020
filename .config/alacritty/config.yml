@@ -1,0 +1,42 @@
+background_opacity: 0.92
+
+colors:
+  bright:
+    black: '#282a40'
+    blue: '#a3c5ff'
+    cyan: '#98fffd'
+    green: '0xe0ffad'
+    magenta: '0xd6afed'
+    red: '#eb7f84'
+    white: '#d1e5ed'
+    yellow: '#Afee7e'
+
+  normal:
+    black: '0x181a29'
+    blue: '#93bbff'
+    cyan: '#98e4ff'
+    green: '#cdea9f'
+    magenta: '#d3a7ee'
+    red: '#F07178'
+    white: '#e5e9f0'
+    yellow: '#ffd47e'
+
+  primary:
+    background: '#0f101a'
+    foreground: '#c5c9de'
+
+font:
+  bold:
+    family: MesloLGS NF
+  italic:
+    family: MesloLGS NF
+  normal:
+    family: MesloLGS NF
+    style: regular
+  offset:
+    y: 3
+  size: 12
+
+window:
+  padding:
+    x: 3
