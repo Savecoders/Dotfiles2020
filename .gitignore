@@ -1,2 +1,2 @@
-.git
-/.config/.vim/plugged/
+*.git
+~/.config/.vim/plugged/
