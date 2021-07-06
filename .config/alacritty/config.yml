@@ -27,11 +27,11 @@ colors:
 
 font:
   bold:
-    family: MesloLGS NF
+    family: Cascadia Code Light
   italic:
-    family: MesloLGS NF
+    family: Cascadia Code Light
   normal:
-    family: MesloLGS NF
+    family: Cascadia Code Light
     style: regular
   offset:
     y: 3
