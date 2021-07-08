@@ -1,4 +1,6 @@
-<h2 align="center"><img src="https://media.giphy.com/media/yPQCe5c8rMuxvtVkdF/giphy.gif" width="300"> My config</h2>
+<h2 align="center"> My config</h2>
+<p align="center"><img src="https://media.giphy.com/media/TjPUCoC8HcUJwPQz27/giphy.gif" width="510"></p>
+
 - **Distribution**: Arch Linux  
 - **Window Manager**: [Gnome](https://openbox.org/)  
 - **Shell**:Zsh | oh-my-zsh 
